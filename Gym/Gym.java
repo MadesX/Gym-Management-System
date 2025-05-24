@@ -9,7 +9,7 @@ public class Gym
 		/* Login Instructions :
 		 * 
 		 * Login as manager : 
-		 * username : admin			password : admin
+		 * username : admin	    password : admin
 		 * 
 		 * Login as member without membership :
 		 * member 12:
